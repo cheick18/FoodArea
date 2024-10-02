@@ -3,10 +3,8 @@ import React, { useState ,useEffect} from 'react'
 import header from './header.jpeg'
 import goo from './goo.png'
 import Footer from './Footer'
-import 'firebaseui/dist/firebaseui.css';
 
-import StyledFirebaseAuth from 'react-firebaseui/StyledFirebaseAuth';
-import { uiConfig ,firebase, uiConfigMail} from '../firebase.config'
+
 
 export default function Choix_inscription() {
  /* const showFirebaseUI = () => {
