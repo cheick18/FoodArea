@@ -12,7 +12,7 @@ export default function Nabar() {
   const menuItems = [
     { text: 'Home', icon: <Home />,lien:'/' },
     { text: 'Recettes', icon: <Fastfood /> ,lien:'/recettes' },
-    { text: 'Theme', icon: <Palette />,lien:'/theme'  },
+  
     { text: 'Categories', icon: <Category /> ,lien:'/categories' },
     { text: 'Contact-nous', icon: <ContactMail /> ,lien:'/contact' },
     { text: 'Inscription', icon: <PersonAdd /> ,lien:'/inscription' },

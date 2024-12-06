@@ -22,7 +22,7 @@ export default function Text_image({them}) {
           <Grid item md={5} sx={12} >
                 <Typography variant='h5' style={{color:'white'}}> Notre passion pour la cuisine</Typography>
                 <div style={{display:'block',height:'20px'}}></div>
-                <Typography variant='body2' style={{color:'white'}}> quos unde est voluptatem tempore 33 sunt impedit et tempora consequatur qui enim magni. magnam temporibus ut distinctio nihil id assumenda</Typography>
+                <Typography variant='body2' style={{color:'white'}}> quos unde est voluptatem tempore 33 sunt impedit et tempora consequatur qui enim magni. distinctio nihil id assumenda</Typography>
                 <div style={{display:'block',height:'20px'}}></div>
  <Link to='/contact'><Button size="small"  variant='contained' style={{backgroundColor:them.palette.secondary.light}}>Contactez-nous</Button></Link>
 
